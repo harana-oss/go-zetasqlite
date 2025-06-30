@@ -1,4 +1,4 @@
-module github.com/goccy/go-zetasqlite
+module github.com/harana-oss/go-zetasqlite
 
 go 1.23.0
 
